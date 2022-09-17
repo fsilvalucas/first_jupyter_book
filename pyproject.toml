@@ -6,6 +6,7 @@ authors = ["Lucas F. Silva <lucaslfsls@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+jupyter-book = "^0.13.1"
 
 [tool.poetry.dev-dependencies]
 
